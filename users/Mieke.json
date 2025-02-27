@@ -1,0 +1,21 @@
+{
+    "nom": "Mieke",
+    "preferences": {
+        "What is your age?": "85",
+        "What are your hobbies?": "making jigzaws",
+        "Which city do you live in?": "tubbergen",
+        "Do you have any pets?": "yes (cat)",
+        "What is your favorite dish?": "pancakes",
+        "What is your favorite movie or TV series?": "the sound of music",
+        "What is your favorite music style?": "classic",
+        "What is your dream or goal in life?": "spend time with my grandchildren"
+    },
+    "images": [
+        {
+            "filename": "17.jpg",
+            "path": "images/Mieke/17.jpg",
+            "description": " The image features an orange tabby cat with striking amber eyes. The cat's fur is a rich, warm orange color, typical of the tabby pattern, and it has white markings on its face and legs. It appears to be sitting upright, looking directly at the camera, giving off a curious or attentive expression. The background is simple and out of focus, suggesting an outdoor setting with a concrete surface visible. There are no other objects or people in the frame, making the cat the central subject of this image. ",
+            "tag": "cat"
+        }
+    ]
+}

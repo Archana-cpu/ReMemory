@@ -1,0 +1,42 @@
+{
+    "nom": "Bob",
+    "preferences": {
+        "What is your age?": "five",
+        "What are your hobbies?": "hi",
+        "Which city do you live in?": "Amsterdam",
+        "Do you have any pets?": " I have a cat",
+        "What is your favorite dish?": "Broken spaggeti",
+        "What is your favorite movie or TV series?": "",
+        "What is your favorite music style?": "Techno",
+        "What is your dream or goal in life?": "Being free"
+    },
+    "images": [
+        {
+            "filename": "4.jpg",
+            "path": "images/bob/4.jpg",
+            "description": " In the image, there's an orange tabby cat with white paws and a white nose sitting on a gray concrete surface. The cat has striking green eyes that are looking directly into the camera, giving it a curious and attentive expression. Its fur is a vibrant shade of orange with darker stripes and markings typical of its breed.\n\nThe cat's ears are pointed upwards, suggesting alertness or curiosity. The background is nondescript, featuring a simple gray concrete surface which contrasts with the cat's warm tones. There is no text present in the image.\n\nThe overall mood conveyed by this image is one of calm and interest. The cat seems content in its outdoor setting, likely enjoying some fresh air or waiting for its owner to return. ",
+            "tag": "cat"
+        },
+        {
+            "filename": "1.jpg",
+            "path": "images/bob/1.jpg",
+            "description": " The image presents a scene of a moment, featuring a domestic cat with striking orange fur. The cat is positioned on an unseen surface, facing towards the right side of the frame. It appears to be gazing directly at the camera, with its head slightly tilted as if curious about the photographer.\n\nThe cat's eyes are large and round, with a yellowish tint that contrasts with its vibrant fur. Its nose is pink, adding to the overall warm color palette of the image. The whiskers on the cat's face are white and appear well-groomed, suggesting the pet is taken care of.\n\nThe background behind the cat is blurred out, keeping the focus on the cat. It seems to be an outdoor setting, given the texture that could be grass or a similar natural surface. The lighting in the image suggests it might be daytime. There are no other objects or people visible in this frame, and there are no texts present.\n\nThe overall mood of the image is serene and contemplative. It captures a quiet moment of an everyday pet, evoking a sense of tranquility and simplicity. The colors in the image are natural and earthy, with the orange of the cat providing a warm, sunny tone to the scene. ",
+            "tag": "cat"
+        },
+        {
+            "filename": "4.jpg",
+            "path": "images/bob/4.jpg",
+            "description": " The image shows a lifelike sculpture or statue of an animated Tyrannosaurus Rex standing upright on its hind legs. It has a large, elongated head with prominent teeth, small eyes, and a long snout. The body of the dinosaur is muscular and robust, featuring a tail that ends in what appears to be a tufted ball or a similar ornamental feature at the end.\n\nThe dinosaur is situated on what looks like an outdoor display, with a clear sky in the background suggesting it might be daytime. The ground is covered in natural grass and scattered stones, giving the impression of a park-like setting. To the right of the T-Rex, there are trees that add to the natural environment of the scene.\n\nIn the top left corner of the image, there is an object that resembles a playhouse or tent with a design reminiscent of traditional teepees found in North America, implying that this might be a themed attraction or park. The style and color of this object contrast sharply with the realistic appearance of the dinosaur statue, adding a whimsical element to the scene.\n\nOverall, the image presents a playful juxtaposition of naturalistic elements, such as the T-Rex sculpture and the outdoor setting, with imaginative and fantastical objects like the themed teepee. The image is likely intended to evoke a sense of amusement and wonder, possibly within the context of an entertainment park or similar venue where dinosaurs and related activities are featured. "
+        },
+        {
+            "filename": "8.jpg",
+            "path": "images/bob/8.jpg",
+            "description": " In the center of the image, a vibrant parrot with an array of colors including red, blue, green, yellow, and orange grabs our attention. The parrot is perched on a branch, facing towards its right, giving us a clear view of its colorful plumage. Its wings are folded neatly at its sides.\n\nThe background is blurred, suggesting it might be a natural setting like a rainforest or a park. However, the blurred green and brown hues suggest that the parrot could be in an indoor aviary with artificial foliage designed to mimic its natural habitat.\n\nThe focus is solely on the parrot, making it the star of this image. The branch it perches on has a few loose leaves scattered around, adding a touch of realism to the scene. Despite the blurred background, the colorful plumage and intense gaze of the parrot make it the focal point of this image. There are no texts or other objects in the frame. The overall composition of the image suggests a serene moment captured in time. "
+        },
+        {
+            "filename": "3.jpg",
+            "path": "images/bob/3.jpg",
+            "description": " In the center of the image, an orange tabby cat is the main subject. The cat has striking yellow eyes that stand out against its light orange fur. It appears to be sitting down with a relaxed posture, its head slightly tilted to the side as if curious or observing something.\n\nThe background provides a simple, uncluttered context with a solid concrete surface visible behind the cat. There's no text present in the image. The colors are natural, with the orange of the cat contrasting against the neutral tones of the surroundings.\n\nThe setting suggests an outdoor area possibly near a residential or urban space due to the presence of a concrete slab, which could be part of a sidewalk or patio. There's no specific action the cat is performing; it seems to be quietly observing its surroundings. "
+        }
+    ]
+}

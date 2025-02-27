@@ -1,0 +1,63 @@
+{
+    "nom": "Wiz",
+    "preferences": {
+        "What is your age?": "56",
+        "What are your hobbies?": "Swimming",
+        "Which city do you live in?": "Brussels",
+        "Do you have any pets?": "No",
+        "What is your favorite dish?": "pasta",
+        "What is your favorite movie or TV series?": "test",
+        "What is your favorite music style?": "electro",
+        "What is your dream or goal in life?": "be free"
+    },
+    "images": [
+        {
+            "filename": "22.jpg",
+            "path": "images/Wiz/22.jpg",
+            "description": " This image features an adorable young rabbit standing on a wooden tabletop. The rabbit is predominantly white with black accents around its eyes and ears. It appears to be enjoying a meal of fresh grass, which it holds delicately in its mouth. The rabbit's curious gaze is directed towards the camera, giving an impression of gentle interest.\r\nI use to sleep next to the rabbit everyday. he is very warm and chill. Every morning, he likes to jump around to wake me up.\r\nThe background is softly blurred, drawing focus to the rabbit. It suggests an outdoor setting with natural light casting soft shadows on the scene. A wooden fence and a portion of a metal grate can be seen in the distance, indicating a residential area or perhaps a garden. The overall mood of the image is one of tranquility and simplicity, with the rabbit as the charming centerpiece. ",
+            "tags": [
+                "animal:lapin",
+                "objet:tableau-wooden",
+                "lieu:garden/residential-area"
+            ]
+        },
+        {
+            "filename": "0.jpg",
+            "path": "images/wiz/0.jpg",
+            "description": " The image captures a moment of a black bear traversing through a natural environment. The bear is standing on a rocky outcropping, its body angled to the left as it walks. Its fur is dark brown, contrasting with the lighter rock surface beneath it. \n\nThe bear's face is turned towards the camera, suggesting curiosity or awareness of its surroundings. It appears to be in motion, perhaps heading towards a dense forest or another area beyond what the image shows.\n\nIn the background, you can see a variety of trees and foliage, adding depth to the scene and indicating that this location is likely within a forested area. The trees are a mix of green hues, suggesting they might be in full leaf. \n\nThe overall mood of the image is one of natural beauty and tranquility, with the bear appearing as a peaceful resident of this woodland ecosystem. There's no text present on the image to provide additional context or information about the location or the bear itself. The focus is solely on the bear and its immediate surroundings. ",
+            "tags": [
+                "animal:ours",
+                "lieu:foret",
+                "émotion:calme"
+            ]
+        }
+    ],
+    "conversation_history": [
+        {
+            "role": "assistant",
+            "content": "**Image Description**:  The image captures a moment of a black bear traversing through a natural environment. The bear is standing on a rocky outcropping, its body angled to the left as it walks. Its fur is dark brown, contrasting with the lighter rock surface beneath it. \n\nThe bear's face is turned towards the camera, suggesting curiosity or awareness of its surroundings. It appears to be in motion, perhaps heading towards a dense forest or another area beyond what the image shows.\n\nIn the background, you can see a variety of trees and foliage, adding depth to the scene and indicating that this location is likely within a forested area. The trees are a mix of green hues, suggesting they might be in full leaf. \n\nThe overall mood of the image is one of natural beauty and tranquility, with the bear appearing as a peaceful resident of this woodland ecosystem. There's no text present on the image to provide additional context or information about the location or the bear itself. The focus is solely on the bear and its immediate surroundings. ",
+            "timestamp": "2025-02-21T12:40:34.765436"
+        },
+        {
+            "role": "user",
+            "content": "what does bear use to do?",
+            "timestamp": "2025-02-21T12:40:34.765443"
+        },
+        {
+            "role": "assistant",
+            "content": "It looks like Wiz has some fond memories of a black bear! According to the image description, it seems that the bear likes to walk through natural environments, possibly heading towards dense forests or other areas. It's also mentioned that the bear appears to be in motion, suggesting that it might be exploring its surroundings.\n\nWould you like to explore more about Wiz's memories of this black bear?",
+            "timestamp": "2025-02-21T12:40:34.765446"
+        }
+    ],
+    "conversation_resumer": [
+        {
+            "resumer": "Aucune réponse pertinente."
+        },
+        {
+            "resumer": "[animal:lapin, lieu:garden/residential-area] la personne a un lien avec le lapin tranquillité"
+        },
+        {
+            "resumer": "**Résumé de la conversation**\n\n[\n    {\n        \"role\": \"assistant\",\n        \"content\": \"L'image montre un ours noir traversant une forêt, dans un environnement naturel.\"\n    },\n    {\n        \"role\": \"user\",\n        \"content\": \"Qu'est-ce que fait l'ours?\"\n    },\n    {\n        \"role\": \"assistant\",\n        \"content\": \"Il semble explorer son environnement et se diriger vers une forêt dense ou un autre endroit.\"\n    }\n]"
+        }
+    ]
+}
